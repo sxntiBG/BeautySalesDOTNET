@@ -1,0 +1,17 @@
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\bin\Debug\net6.0\BeautySales.BLL.deps.json
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\bin\Debug\net6.0\BeautySales.BLL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\bin\Debug\net6.0\BeautySales.BLL.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\BeautySales.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\BeautySales.BLL.AssemblyInfoInputs.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\BeautySales.BLL.AssemblyInfo.cs
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\BeautySales.BLL.csproj.CoreCompileInputs.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\BeautySales.BLL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\refint\BeautySales.BLL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\BeautySales.BLL.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\ref\BeautySales.BLL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\bin\Debug\net6.0\BeautySales.DAL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\bin\Debug\net6.0\BeautySales.Entity.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\bin\Debug\net6.0\BeautySales.DAL.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\bin\Debug\net6.0\BeautySales.Entity.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\BeautySales.BLL.csproj.AssemblyReference.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.BLL\obj\Debug\net6.0\BeautySales.BLL.csproj.CopyComplete

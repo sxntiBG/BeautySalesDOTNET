@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.AplicacionWeb\\BeautySales.AplicacionWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.AplicacionWeb\\BeautySales.AplicacionWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.AplicacionWeb\\BeautySales.AplicacionWeb.csproj",
+        "projectName": "BeautySales.AplicacionWeb",
+        "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.AplicacionWeb\\BeautySales.AplicacionWeb.csproj",
+        "packagesPath": "C:\\Users\\zapat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.AplicacionWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zapat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.BLL\\BeautySales.BLL.csproj": {
+                "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.BLL\\BeautySales.BLL.csproj"
+              },
+              "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj": {
+                "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj"
+              },
+              "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.IOC\\BeautySales.IOC.csproj": {
+                "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.IOC\\BeautySales.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.BLL\\BeautySales.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.BLL\\BeautySales.BLL.csproj",
+        "projectName": "BeautySales.BLL",
+        "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.BLL\\BeautySales.BLL.csproj",
+        "packagesPath": "C:\\Users\\zapat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zapat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.DAL\\BeautySales.DAL.csproj": {
+                "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.DAL\\BeautySales.DAL.csproj"
+              },
+              "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj": {
+                "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.DAL\\BeautySales.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.DAL\\BeautySales.DAL.csproj",
+        "projectName": "BeautySales.DAL",
+        "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.DAL\\BeautySales.DAL.csproj",
+        "packagesPath": "C:\\Users\\zapat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zapat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj": {
+                "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj",
+        "projectName": "BeautySales.Entity",
+        "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\BeautySales.Entity.csproj",
+        "packagesPath": "C:\\Users\\zapat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zapat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.IOC\\BeautySales.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.IOC\\BeautySales.IOC.csproj",
+        "projectName": "BeautySales.IOC",
+        "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.IOC\\BeautySales.IOC.csproj",
+        "packagesPath": "C:\\Users\\zapat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zapat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.BLL\\BeautySales.BLL.csproj": {
+                "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.BLL\\BeautySales.BLL.csproj"
+              },
+              "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.DAL\\BeautySales.DAL.csproj": {
+                "projectPath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.DAL\\BeautySales.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

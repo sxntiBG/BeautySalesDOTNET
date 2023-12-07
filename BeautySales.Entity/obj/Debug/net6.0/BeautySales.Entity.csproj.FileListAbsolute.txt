@@ -1,0 +1,14 @@
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\bin\Debug\net6.0\BeautySales.Entity.deps.json
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\bin\Debug\net6.0\BeautySales.Entity.runtimeconfig.json
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\bin\Debug\net6.0\BeautySales.Entity.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\bin\Debug\net6.0\BeautySales.Entity.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\BeautySales.Entity.csproj.AssemblyReference.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\BeautySales.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\BeautySales.Entity.AssemblyInfoInputs.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\BeautySales.Entity.AssemblyInfo.cs
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\BeautySales.Entity.csproj.CoreCompileInputs.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\BeautySales.Entity.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\refint\BeautySales.Entity.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\BeautySales.Entity.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\BeautySales.Entity.genruntimeconfig.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.Entity\obj\Debug\net6.0\ref\BeautySales.Entity.dll

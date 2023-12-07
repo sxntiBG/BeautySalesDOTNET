@@ -1,0 +1,15 @@
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\bin\Debug\net6.0\BeautySales.DAL.deps.json
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\bin\Debug\net6.0\BeautySales.DAL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\bin\Debug\net6.0\BeautySales.DAL.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\BeautySales.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\BeautySales.DAL.AssemblyInfoInputs.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\BeautySales.DAL.AssemblyInfo.cs
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\BeautySales.DAL.csproj.CoreCompileInputs.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\BeautySales.DAL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\refint\BeautySales.DAL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\BeautySales.DAL.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\ref\BeautySales.DAL.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\bin\Debug\net6.0\BeautySales.Entity.dll
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\bin\Debug\net6.0\BeautySales.Entity.pdb
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\BeautySales.DAL.csproj.AssemblyReference.cache
+C:\Users\zapat\source\repos\BeautySalesDOTNET\BeautySales.DAL\obj\Debug\net6.0\BeautySales.DAL.csproj.CopyComplete
