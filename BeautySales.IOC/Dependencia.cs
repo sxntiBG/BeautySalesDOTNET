@@ -10,8 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using BeautySales.DAL.DBContext;
 using Microsoft.EntityFrameworkCore;
-//using BeautySales.DAL.Implementacion;
-//using BeautySales.DAL.Interfaces;
+using BeautySales.DAL.Implementacion;
+using BeautySales.DAL.Interfaces;
 //using BeautySales.BLL.Implementacion;
 //using BeautySales.BLL.Interfaces;
 
@@ -25,6 +25,10 @@ namespace BeautySales.IOC
             {
                 options.UseSqlServer(configuration.GetConnectionString("conexion"));
             });
+
+            services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddScoped<IVentaRepository, VentaRepository>();
+
         }
     }
 }
