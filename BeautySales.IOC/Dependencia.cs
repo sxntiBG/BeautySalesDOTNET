@@ -30,11 +30,16 @@ namespace BeautySales.IOC
             services.AddScoped<IVentaRepository, VentaRepository>();
 
             //Dependencia del envio de correo
-
             services.AddScoped<ICorreoService, CorreoService>();
 
             //Dependencia para guardar la multimedia
             services.AddScoped<IFireBaseService, FireBaseService>();
+
+            //Dependencia para generar y encriptar clave
+            services.AddScoped<IUtilidadesService, UtilidadesService>();
+
+            //Dependencia para listar roles
+            services.AddScoped<IRolService, RolService>();
 
         }
     }
