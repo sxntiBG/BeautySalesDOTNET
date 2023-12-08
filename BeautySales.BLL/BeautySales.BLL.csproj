@@ -11,9 +11,4 @@
     <ProjectReference Include="..\BeautySales.Entity\BeautySales.Entity.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Implementacion\" />
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
-
 </Project>

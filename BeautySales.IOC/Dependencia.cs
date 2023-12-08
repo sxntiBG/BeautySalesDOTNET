@@ -12,8 +12,8 @@ using BeautySales.DAL.DBContext;
 using Microsoft.EntityFrameworkCore;
 using BeautySales.DAL.Implementacion;
 using BeautySales.DAL.Interfaces;
-//using BeautySales.BLL.Implementacion;
-//using BeautySales.BLL.Interfaces;
+using BeautySales.BLL.Implementacion;
+using BeautySales.BLL.Interfaces;
 
 namespace BeautySales.IOC
 {
@@ -28,6 +28,10 @@ namespace BeautySales.IOC
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IVentaRepository, VentaRepository>();
+
+            //Dependencia del envio de correo
+
+            services.AddScoped<ICorreoService, CorreoService>();
 
         }
     }
