@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WG1kNzuc2qbiOQK5WMrgNPewf+gg0V9E2pYN1LdLYRQd/u35BqAyueVW9S5gxBVFSgahGvYUrer7kUbd3y9apQ==",
+  "dgSpecHash": "rA482tJjjdF3kHXVljgmw05PivRPShKoBkQRshmq3fqvGwO/RQg0q0ikOiNEeHqVepmWESQ2GStU4UywaF926w==",
   "success": true,
   "projectFilePath": "C:\\Users\\zapat\\source\\repos\\BeautySalesDOTNET\\BeautySales.AplicacionWeb\\BeautySales.AplicacionWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\zapat\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
+    "C:\\Users\\zapat\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
     "C:\\Users\\zapat\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\zapat\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\zapat\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

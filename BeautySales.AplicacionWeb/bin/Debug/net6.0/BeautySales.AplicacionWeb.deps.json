@@ -17,6 +17,30 @@
           "BeautySales.AplicacionWeb.dll": {}
         }
       },
+      "FirebaseAuthentication.net/3.7.2": {
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Firebase.Auth.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FirebaseStorage.net/1.0.3": {
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Firebase.Storage.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Humanizer/2.14.1": {
         "dependencies": {
           "Humanizer.Core.af": "2.14.1",
@@ -2451,7 +2475,9 @@
       "BeautySales.BLL/1.0.0": {
         "dependencies": {
           "BeautySales.DAL": "1.0.0",
-          "BeautySales.Entity": "1.0.0"
+          "BeautySales.Entity": "1.0.0",
+          "FirebaseAuthentication.net": "3.7.2",
+          "FirebaseStorage.net": "1.0.3"
         },
         "runtime": {
           "BeautySales.BLL.dll": {}
@@ -2489,6 +2515,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FirebaseAuthentication.net/3.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d0Zc0tiE7NutI/jMX/T81LU/rX3HVBH8vtvKTbIeN6BCIQ+wipstz7tm5MnIgAeh4ehqCHTiVuMOHztqfCVCBQ==",
+      "path": "firebaseauthentication.net/3.7.2",
+      "hashPath": "firebaseauthentication.net.3.7.2.nupkg.sha512"
+    },
+    "FirebaseStorage.net/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SupDHNUwNqcVwEo/HdFEWAXveQe3fU16q4wrrCxUVwP0a77zaddKp7vo2sHIW56DAsJn/gUfjDK3w0MuBhvzjQ==",
+      "path": "firebasestorage.net/1.0.3",
+      "hashPath": "firebasestorage.net.1.0.3.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",

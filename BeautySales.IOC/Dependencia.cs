@@ -33,6 +33,9 @@ namespace BeautySales.IOC
 
             services.AddScoped<ICorreoService, CorreoService>();
 
+            //Dependencia para guardar la multimedia
+            services.AddScoped<IFireBaseService, FireBaseService>();
+
         }
     }
 }
