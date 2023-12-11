@@ -41,6 +41,8 @@ namespace BeautySales.IOC
             //Dependencia para listar roles
             services.AddScoped<IRolService, RolService>();
 
+            //Dependencia de los metodos de usuario
+            services.AddScoped<IUsuarioService, UsuarioService>();
         }
     }
 }
