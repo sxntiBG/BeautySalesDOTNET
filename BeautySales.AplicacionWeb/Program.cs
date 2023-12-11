@@ -1,3 +1,5 @@
+
+using BeautySales.AplicacionWeb.Utilidades.Automapper;
 using BeautySales.IOC;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.InyectarDependencia(builder.Configuration);
+
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 var app = builder.Build();
 
